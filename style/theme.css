@@ -1,0 +1,49 @@
+    div,header,footer,aside{
+        background: #eee;
+        border:1px solid black;
+    }
+
+
+/* ---------------------------
+          phone
+-------------------------------           */
+@media screen and (max-width:960px){
+    footer{
+        border-top: none;
+    }
+    aside{
+        border-top: none;
+ 
+    }
+    .firstRow, .secondRow {
+        border-top: none;
+
+    }
+    .secondRow:nth-of-type(even){
+        border-left: none;
+
+    }
+
+}
+
+
+/* ---------------------------
+         Desktop
+-------------------------------           */
+@media screen and (min-width:960px){
+    div{
+
+    border-top:none;
+    border-left:none;
+
+    }
+
+    footer{
+    border-top:none;
+    border-left:none;
+    }
+
+    aside{
+    border-top:none;
+    }
+}

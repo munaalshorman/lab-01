@@ -1,0 +1,129 @@
+/* *{
+  box-sizing:border-box;
+  /*makes every browser make the exactly same*/
+/*}
+div,header,footer,aside{
+  background: #eee;
+  border:1px solid black;
+  float:left;
+  width:100%;
+} */
+
+
+/* ---------------------------
+    phone
+-------------------------------           */
+/* @media screen and (max-width:960px){
+footer{
+  border-top: none;
+  height: 80px;
+    background: #eee;
+  border:1px solid black;
+  float:left;
+  width:100%;
+
+}
+aside{
+  border-top: none;
+  height: 150px;
+     background: #eee;
+  border:1px solid black;
+  float:left;
+  width:100%;
+
+}
+
+.secondRow:nth-of-type(even){
+  border-left: none;
+}
+main{
+  margin:auto;/* to center but it has to have a width */
+  /*width: 480px;
+  }
+  header{
+  height: 75px;
+      background: #eee;
+  border:1px solid black;
+  float:left;
+  width:100%;
+
+  }
+  .firstRow{
+  height: 125px;
+  border-top: none;
+
+   }
+  .secondRow{
+    border-top: none;
+  height: 250px;
+  width: 240px;
+  }
+
+}
+section{
+
+  overflow:hidden;
+}*/
+/* -------------------------------------------------------------------------
+-------------------------------------------------------------------------
+                      Desktop
+-------------------------------------------------------------------------
+------------------------------------------------------------------------- */
+/*@media screen and (min-width:960px){
+  main{
+
+      width: 960px;
+  
+      }
+  header{
+  background: #eee;
+  border:1px solid black;
+  float:left;
+  width:100%;
+
+  height: 100px;
+  }
+  aside{
+        background: #eee;
+  border:1px solid black;
+  float:left;
+  width:100%;
+
+      height: 600px;
+      width:200px;
+      border-top:none;
+
+  }
+  footer{
+      height: 150px;
+      width: 760px;
+      border-top:none;
+      border-left:none;
+        background: #eee;
+  border:1px solid black;
+  float:left;
+  width:100%;
+  }
+  .firstRow{
+      height: 200px;
+      width: 380px;
+
+  }
+  .secondRow{
+      height: 250px;
+      width: 190px;
+  }
+  div{
+    border-top:none;
+    border-left:none;
+    background: #eee;
+    border:1px solid black;
+    float:left;
+    width:100%;
+    }
+    
+  
+  } */
+
+
+
